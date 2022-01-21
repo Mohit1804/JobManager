@@ -12,8 +12,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 /**
- * Created by timbuchalka on 20/10/16.
- *
+
  * Provider for the TaskTimer app. This is the only that knows about {@link AppDatabase}
  */
 

@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 /**
- * Created by timbuchalka on 19/10/16.
+ *
  *
  * Basic database class for the application.
  *

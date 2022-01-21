@@ -7,9 +7,7 @@ import android.provider.BaseColumns;
 import static com.timbuchalka.tasktimer.AppProvider.CONTENT_AUTHORITY;
 import static com.timbuchalka.tasktimer.AppProvider.CONTENT_AUTHORITY_URI;
 
-/**
- * Created by timbuchalka on 08th March 2018.
- */
+
 
 public class TimingsContract {
 

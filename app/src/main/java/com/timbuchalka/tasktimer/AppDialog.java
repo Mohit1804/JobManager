@@ -14,10 +14,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by timbuchalka on 20/2/17.
- * 
- */
+
 
 public class AppDialog extends AppCompatDialogFragment {
     public static final String TAG = "AppDialog";

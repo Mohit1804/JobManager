@@ -11,10 +11,7 @@ import android.widget.TextView;
 
 import java.util.Locale;
 
-/**
- * Created by timbuchalka for Android Oreo with Java course
- * from www.learnprogramming.academy
- */
+
 
 public class DurationsRVAdapter extends RecyclerView.Adapter<DurationsRVAdapter.ViewHolder> {
 

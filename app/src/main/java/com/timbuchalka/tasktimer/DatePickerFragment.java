@@ -13,8 +13,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * Created by timbuchalka for Android Oreo with Java course
- * from www.learnprogramming.academy
+ *
  */
 
 public class DatePickerFragment extends DialogFragment implements DatePickerDialog.OnDateSetListener {
